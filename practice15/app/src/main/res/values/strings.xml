@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">practice15</string>
+    <string name="toast1">Введите породу животного!</string>
+    <string name="toast2">Введите год рождения!</string>
+    <string name="toast3">Введите месяц рождения!</string>
+    <string name="breed">Порода животного</string>
+    <string name="year">Год рождения</string>
+    <string name="month">Месяц рождения</string>
+</resources>
