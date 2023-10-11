@@ -15,9 +15,9 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun btnClick(view: View) {
-        val breedText : TextView = findViewById(R.id.breed)
-        val yearText : TextView = findViewById(R.id.year)
-        val monthText : TextView = findViewById(R.id.month)
+        val breedText : EditText = findViewById(R.id.breed)
+        val yearText : EditText = findViewById(R.id.year)
+        val monthText : EditText = findViewById(R.id.month)
 
         var breed : String = ""
         var year : Int = 0
